@@ -31,6 +31,7 @@ fruits4.push("Orange");   // add at end
 fruits4.pop();            // remove last
 fruits4.shift();          // remove first
 fruits4.unshift("Grapes");// add at start
+// SPLICE TO REMOVE ELEMENT FROM THE ARRAYS CENTER 
 
 console.log(fruits4);     // ["Grapes", "Banana", "Mango"]
 
