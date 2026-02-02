@@ -10,3 +10,4 @@ function evenOddCheck(...param){
 
 evenOddCheck(2,3,4,5)
 evenOddCheck(4,3,5,3,2,5,7,8)
+
