@@ -16,4 +16,4 @@ function max(...params) {
     }
     return max;
 }
-console.log(max(4, 8, 1, 3));
+console.log(max(4, 8, 1, 3)); 
